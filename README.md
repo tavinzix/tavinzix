@@ -14,7 +14,7 @@
 
 <h2> activities: </h2>
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tavinzix&theme=hacker&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tavinzix&theme=hacker&locale=pt_BR)](https://git.io/streak-stats)
 </div>
 
 ##
