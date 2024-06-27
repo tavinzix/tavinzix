@@ -23,7 +23,8 @@
 <div align="center">
   <a href="https://instagram.com/tavinzix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:otaviofariafagundes1@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-
+    <a href="mailto:otaviofariafagundes1@gamil.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank">
+ 
   
 </div>
 
@@ -44,9 +45,3 @@ mensagem passando no perfil: https://readme-typing-svg.herokuapp.com/demo/
  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinzix&layout=compact&theme=vision-friendly-dark">
 </p>
  !-->
- 
- ## 👨🏽‍🦲 &nbsp;Social Link
- <p>                                                                                                            
- <a href="mailto:otaviofariafagundes1@gamil.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank">
- </p>
-
